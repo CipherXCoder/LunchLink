@@ -1,6 +1,6 @@
 # LunchLink - Healthy Meals Website
 
-**LunchLink** is a simple, static website showcasing a service for companies to deliver healthy meals to their employees , built for practice purposes using **HTML**, **CSS**, and **basic JavaScript**. The goal of this project is to practice front-end development skills by creating a visually appealing and responsive website.
+**LunchLink** is a simple, static website showcasing a Lunch delivery service for companies, built for practice purposes using **HTML**, **CSS**, and **basic JavaScript**. The goal of this project is to practice front-end development skills by creating a visually appealing and responsive website.
 
 ## Project Purpose
 
@@ -14,10 +14,10 @@ This is a personal project and serves as practice to refine front-end skills.
 
 ## Features
 
-- A clean, responsive layout designed for displaying healthy meals
+- A clean, responsive layout designed for displaying lunch delivery service
 - Smooth navigation across different sections
 - Interactive elements powered by JavaScript
-- A section showcasing different healthy meal options with images and descriptions
+- A section showcasing different pricing plans
 
 ## Technologies Used
 
@@ -32,9 +32,9 @@ To view or run the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/AlhianeDev/LunchLink.git
+   git clone https://github.com/CipherXCoder/LunchLink.git
    ```
 
 ## Live Demo
 
-[lunch-link.vercel.app](https://lunch-link.vercel.app/)
+[lunchlink.vercel.app]((https://lunchlink.vercel.app/))
