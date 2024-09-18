@@ -1,4 +1,4 @@
-# LunchLink - Healthy Meals Website
+# LunchLink - Lunch Delivery Website
 
 **LunchLink** is a simple, static website showcasing a Lunch delivery service for companies, built for practice purposes using **HTML**, **CSS**, and **basic JavaScript**. The goal of this project is to practice front-end development skills by creating a visually appealing and responsive website.
 
